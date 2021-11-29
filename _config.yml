@@ -290,3 +290,4 @@ defaults:
       related: true
 
 remote_theme : mmistakes/minimal-mistakes
+disqus_shortname : 'woojincho98'
