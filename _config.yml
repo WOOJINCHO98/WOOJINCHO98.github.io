@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "WooJin Cho"
-  avatar           : "/assets/images/500x500.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "새싹 개발자"
   location         : "Seoul"
   email            : "woojin_cho@outlook.com"
