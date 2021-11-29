@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "내가 블로그를 만든 이유"
 date: 2021-11-29 22:50:28 -0400
 categories: Starting
-comment: true
 ---
 한글로 작성해도 잘 보일지 모르겠다.
 
