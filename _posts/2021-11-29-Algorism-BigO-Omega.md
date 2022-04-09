@@ -1,6 +1,6 @@
 ---
 title: "알고리즘 빅오 오메가 세타"
-date: 2022-04-10
+date: 2021-11-29 22:50:28 -0400
 categories: Starting
 ---
 
