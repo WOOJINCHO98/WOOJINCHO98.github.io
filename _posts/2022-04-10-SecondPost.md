@@ -50,6 +50,7 @@ $ git branch -M [되고싶은 branch name]
 $ git branch -m [현재 branch name] [바꾸고싶은 branch name]
 
 브랜치 명을 master 에서 메인으로 바꾸고 푸시하면 된다
+<<<<<<< HEAD
 
 그런데 또 오류
 
@@ -71,3 +72,5 @@ git push origin main --force 로 강제로 푸시하여서 해겷하였다.
 git branch -m master main
 
 브랜치 명을 변경해주고, 푸시
+=======
+>>>>>>> parent of f43d4a0 (Second Post)
