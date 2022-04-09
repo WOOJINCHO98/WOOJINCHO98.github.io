@@ -60,4 +60,5 @@ $ git branch -m [현재 branch name] [바꾸고싶은 branch name]
 ... 
 
 git push origin main --force 로 강제로 푸시하여서 해겷하였다.
+한 번 force 로 푸시하고 난 후 부터는 일반적인 푸시 명령어로 푸시가 가능했다.
 
