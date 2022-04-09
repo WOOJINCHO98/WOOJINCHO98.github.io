@@ -50,3 +50,14 @@ $ git branch -M [되고싶은 branch name]
 $ git branch -m [현재 branch name] [바꾸고싶은 branch name]
 
 브랜치 명을 master 에서 메인으로 바꾸고 푸시하면 된다
+
+그런데 또 오류
+
+
+힌트: 현재 브랜치의 끝이 리모트 브랜치보다 뒤에 있으므로 업데이트가
+힌트: 거부되었습니다. 푸시하기 전에 ('git pull ...' 등 명령으로) 리모트
+
+... 
+
+git push origin main --force 로 강제로 푸시하여서 해겷하였다.
+
