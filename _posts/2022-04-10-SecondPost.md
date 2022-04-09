@@ -1,7 +1,7 @@
 ---
 title: "깃 사용법"
-date: 2021-11-29 22:50:28 -0400
-categories: Starting
+date: 2022-04-10 01:11:28 -0400
+categories: Github
 ---
 
 
@@ -62,3 +62,12 @@ $ git branch -m [현재 branch name] [바꾸고싶은 branch name]
 git push origin main --force 로 강제로 푸시하여서 해겷하였다.
 한 번 force 로 푸시하고 난 후 부터는 일반적인 푸시 명령어로 푸시가 가능했다.
 
+
+
+
+정리하자면 
+기본 브랜치 명이 main 이 아닌 master 로 되어있기 때문에, 
+
+git branch -m master main
+
+브랜치 명을 변경해주고, 푸시
