@@ -1,7 +1,7 @@
 ---
 title: "깃 사용법"
 date: 2022-04-10 01:11:28 -0400
-categories: Github
+categories: Starting
 ---
 
 

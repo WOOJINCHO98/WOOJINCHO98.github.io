@@ -1,7 +1,7 @@
 ---
 title: "알고리즘 빅오 오메가 세타"
 date: 2022-04-10
-categories: Algorism
+categories: Starting
 ---
 
 빅오 표기법
